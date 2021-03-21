@@ -28,8 +28,9 @@ $ chmod +x *
 
 > Now select your architecture   
 > Now type this command to start   
-
-**`$ startkali'**
+```
+$ startkali
+```
 > Compulsory Steps For First Time Use  
 
 > So after startkali  
