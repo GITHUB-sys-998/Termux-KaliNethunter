@@ -1,9 +1,9 @@
-### 𝐓𝐞𝐫𝐦𝐮𝐱 𝐊𝐚𝐥𝐢𝐍𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫
+### ༒︎᯾𝐓𝐞𝐫𝐦𝐮𝐱 𝐊𝐚𝐥𝐢𝐍𝐞𝐭𝐡𝐮𝐧𝐭𝐞𝐫᯾༒︎
 
 > Termux Nethunter for Termux users  
 > we can run some linux root tools with this nethunter in Termux  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :  
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ :  
 ```
 $ apt update   
 ```
@@ -42,3 +42,6 @@ $ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
 > Now its time to update 
 
  **`$ apt-get update`**
+
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
