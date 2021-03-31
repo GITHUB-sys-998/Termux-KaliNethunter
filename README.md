@@ -44,4 +44,4 @@ $ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
  **`$ apt-get update`**
 
 ### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
-> Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+> Usage of KaliNethunter for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
